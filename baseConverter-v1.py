@@ -13,5 +13,4 @@ list_digit.reverse()
 newNum = ''
 for i in list_digit:
     newNum += str(i)
-
 print(f'The (decimal) {userNum} converts into {newNum} in base {base}')
